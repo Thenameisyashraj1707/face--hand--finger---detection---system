@@ -129,9 +129,7 @@ pip install opencv-python mediapipe
 
 ---
 
-## 📸 Project Demo (Screenshots)
 
-![Git image README](https://github.com/user-attachments/assets/3229186a-9f14-49e3-8cad-0ba9bdaadc17)
 
 
 ---
@@ -141,6 +139,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ---
 
-## 📩 Contact
-For any queries or collaborations, reach out via **primusvlog@gmail.com** or connect on **https://www.linkedin.com/in/debangan-ghosh/**.
 
